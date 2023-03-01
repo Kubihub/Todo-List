@@ -22,6 +22,7 @@ while True:
             number = int(input("Number of the todo that is completed"))
             todos.pop(number - 1)
         case "exit":
+      
             break
 
-print("bye")
+print("bye thank for the todo list")
